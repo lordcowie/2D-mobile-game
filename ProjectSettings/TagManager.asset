@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - ground1
+  - attcaks
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: last
+    uniqueID: 1249960711
+    locked: 0
+  - name: background perhaps
+    uniqueID: 4080730805
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: eyes of the face
+    uniqueID: 1415636135
+    locked: 0
+  - name: clouds
+    uniqueID: 284065415
+    locked: 0
+  - name: player
+    uniqueID: 643137999
+    locked: 0

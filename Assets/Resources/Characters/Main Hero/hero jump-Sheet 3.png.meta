@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: 2ab8c2c071509d249b5a61c3ed88eeee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5831572899968378286
+    second: hero jump-Sheet_0
+  - first:
+      213: -7524305899856525097
+    second: hero jump-Sheet_1
+  - first:
+      213: -4980458085758616484
+    second: hero jump-Sheet_2
+  - first:
+      213: -5887662916207185185
+    second: hero jump-Sheet_3
+  - first:
+      213: 7415354869355939527
+    second: hero jump-Sheet_4
+  - first:
+      213: 5046369775448362192
+    second: hero jump-Sheet_5
+  - first:
+      213: 6388387024163476931
+    second: hero jump-Sheet_6
+  - first:
+      213: 4666306282444154987
+    second: hero jump-Sheet_7
+  - first:
+      213: -6852387999715585746
+    second: hero jump-Sheet_8
+  - first:
+      213: 2620366691269905999
+    second: hero jump-Sheet_9
+  - first:
+      213: -9186870467344964841
+    second: hero jump-Sheet_10
+  - first:
+      213: 6207039992416628669
+    second: hero jump-Sheet_11
+  - first:
+      213: -1859578026680548998
+    second: hero jump-Sheet 3_0
+  - first:
+      213: -32958007710051267
+    second: hero jump-Sheet 3_1
+  - first:
+      213: 848294823197327321
+    second: hero jump-Sheet 3_2
+  - first:
+      213: 6377180363721800530
+    second: hero jump-Sheet 3_3
+  - first:
+      213: -1408485042319383758
+    second: hero jump-Sheet 3_4
+  - first:
+      213: -4282687430163478621
+    second: hero jump-Sheet 3_5
+  - first:
+      213: 347223932877501247
+    second: hero jump-Sheet 3_6
+  - first:
+      213: 4318249210321306820
+    second: hero jump-Sheet 3_7
+  - first:
+      213: -8172037692380772589
+    second: hero jump-Sheet 3_8
+  - first:
+      213: 377047062178277335
+    second: hero jump-Sheet 3_9
+  - first:
+      213: -8937389767665560470
+    second: hero jump-Sheet 3_10
+  - first:
+      213: 4270772174398485210
+    second: hero jump-Sheet 3_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hero jump-Sheet 3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71859f13a37136e0800000000000000
+      internalID: -1859578026680548998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero jump-Sheet 3_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3410f9ddd8ea8ff0800000000000000
+      internalID: -32958007710051267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero jump-Sheet 3_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfba71b5afb5cb00800000000000000
+      internalID: 848294823197327321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero jump-Sheet 3_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bfb38c0cb408850800000000000000
+      internalID: 6377180363721800530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero jump-Sheet 3_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2332a15015e047ce0800000000000000
+      internalID: -1408485042319383758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero jump-Sheet 3_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a743111976d094c0800000000000000
+      internalID: -4282687430163478621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero jump-Sheet 3_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f337da8c35691d400800000000000000
+      internalID: 347223932877501247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero jump-Sheet 3_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c400d817c08deb30800000000000000
+      internalID: 4318249210321306820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero jump-Sheet 3_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3178a8e1407179e80800000000000000
+      internalID: -8172037692380772589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero jump-Sheet 3_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7adbc2e4a8b3500800000000000000
+      internalID: 377047062178277335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero jump-Sheet 3_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64551fcb5308f380800000000000000
+      internalID: -8937389767665560470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero jump-Sheet 3_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2f4a34aa4d44b30800000000000000
+      internalID: 4270772174398485210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -372.47314, y: -24.086006}
+      - {x: -372.47314, y: 28.387115}
+      - {x: -315.69894, y: 28.387115}
+      - {x: -315.69894, y: -24.086006}
+    - - {x: -305.37637, y: -26.666653}
+      - {x: -305.37637, y: 30.967762}
+      - {x: -257.2043, y: 30.967762}
+      - {x: -257.2043, y: -26.666653}
+    - - {x: -246, y: -24}
+      - {x: -246, y: 25}
+      - {x: -197, y: 25}
+      - {x: -197, y: -24}
+    - - {x: -184, y: -29}
+      - {x: -184, y: 28}
+      - {x: -131, y: 28}
+      - {x: -131, y: -29}
+    - - {x: -124, y: -28}
+      - {x: -124, y: 31}
+      - {x: -64, y: 31}
+      - {x: -64, y: -28}
+    - - {x: -52, y: -14}
+      - {x: -52, y: 28}
+      - {x: 5, y: 28}
+      - {x: 7, y: -14}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
