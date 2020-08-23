@@ -206,7 +206,6 @@ GameObject:
   m_Component:
   - component: {fileID: 4861891296564658640}
   - component: {fileID: 559000206131511308}
-  - component: {fileID: 1744431720066129529}
   - component: {fileID: 4456604961129777273}
   m_Layer: 0
   m_Name: Face 01
@@ -280,21 +279,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1744431720066129529
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3191898431287125153}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  DisplayedSprite: 0
-  Sprites:
-  - {fileID: 0}
 --- !u!114 &4456604961129777273
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -309,6 +293,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   DisplayedSprite: 0
   Sprites:
+  - {fileID: 0}
   - {fileID: 0}
 --- !u!1 &3441591443047748315
 GameObject:
@@ -2279,7 +2264,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 0
@@ -2288,7 +2273,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 0.4
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 0
@@ -4262,7 +4247,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 0
@@ -4271,7 +4256,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 0.1
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 0
@@ -4280,7 +4265,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 0.2
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 0
@@ -4289,7 +4274,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 0.3
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 0
@@ -4298,7 +4283,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 0.35000002
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 0
@@ -4307,7 +4292,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 0.37500003
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 0
@@ -4316,7 +4301,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 0.5
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 0
@@ -4642,7 +4627,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 0
@@ -4651,7 +4636,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 0.3
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 0
@@ -4660,7 +4645,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 0.4
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 0
